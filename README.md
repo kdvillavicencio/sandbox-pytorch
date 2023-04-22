@@ -55,3 +55,13 @@ ipython kernel install --user --name=.venv
 ```
 
 Don't forget to **restart** VSCode!!
+
+## Converting `.ipynb` to `.md`
+Install `nbconvert`
+```bash
+pip install nbconver
+```
+Run the following command
+```bash
+jupyter nbconvert --to markdown <file.ipynb>
+```
