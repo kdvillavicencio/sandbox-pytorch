@@ -32,7 +32,7 @@ For Windows:
 
 For Linux/Mac:
 ```bash
-source .venv/scripts/activate
+source .venv/bin/activate
 ```
 
 ### Deactivating the Virtual Env
