@@ -65,3 +65,7 @@ Run the following command
 ```bash
 jupyter nbconvert --to markdown <file.ipynb>
 ```
+
+
+## Further Readings
+- [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
